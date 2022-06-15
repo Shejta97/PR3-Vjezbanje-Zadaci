@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\source\repos\Izostanci\Izostanci\Source.cpp(183,1): warning C4305: 'return': truncation from 'int' to 'bool'
+D:\source\repos\Izostanci\Izostanci\Source.cpp(188,1): warning C4305: 'return': truncation from 'int' to 'bool'
+D:\source\repos\Izostanci\Izostanci\Source.cpp(193,1): warning C4305: 'return': truncation from 'int' to 'bool'
+D:\source\repos\Izostanci\Izostanci\Source.cpp(232,69): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+D:\source\repos\Izostanci\Izostanci\Source.cpp(273,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Izostanci.vcxproj -> D:\source\repos\Izostanci\Debug\Izostanci.exe
